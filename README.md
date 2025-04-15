@@ -3,3 +3,6 @@
 
 ## Tech Stack
 <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&color=white"/>
+<img alt="fastapi" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&color=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&color=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&color=white"/>
